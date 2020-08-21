@@ -1,0 +1,15 @@
+@import url(./__title/dnd__title.css);
+@import url(./__tasks/dnd__tasks.css);
+@import url(./__task/dnd__task.css);
+@import url(./__groups/dnd__groups.css);
+@import url(./__group/dnd__group.css);
+@import url(./__add-task/dnd__add-task.css);
+@import url(./__input/dnd__input.css);
+@import url(./__btn-submit/dnd__dtn-submit.css);
+
+.dnd { 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 5%; 
+}

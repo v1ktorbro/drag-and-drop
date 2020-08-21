@@ -1,0 +1,7 @@
+.dnd__input {
+    width: 335px;
+    height: 35px;
+    border: 0.5px solid black;
+    border-radius: 8px;
+    outline: none;
+}

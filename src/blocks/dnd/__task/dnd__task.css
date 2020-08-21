@@ -1,0 +1,20 @@
+@import url(./_active/dnd__task_active.css);
+
+.dnd__task {
+    border: 1px solid black;
+    border-radius: 8px;
+    display: flex;
+    list-style-type: none;
+    font-size: 18px;
+    font-weight: 600;
+    min-height: 100px;
+    widows: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.dnd__task:last-of-type {
+    margin-bottom: 0;
+}

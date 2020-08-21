@@ -1,0 +1,11 @@
+.dnd__group { 
+    border-radius: 8px;
+    min-height: 500px;
+    min-width: 200px;
+    background-color: rgba(250, 202, 193, 0.644);
+}
+
+.dnd__group:last-of-type {
+    margin-left: 100px;
+    background-color: rgba(200, 252, 122, 0.932);
+}

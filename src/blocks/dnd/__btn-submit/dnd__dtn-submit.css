@@ -1,0 +1,15 @@
+.dnd__btn-submit {
+    width: 150px;
+    margin-left: 15px;
+    border-radius: 8px;
+    border: 0.5px solid black;
+    height: 40px;
+    outline: none;
+    cursor: pointer;
+}
+
+.dnd__btn-submit:hover {
+    opacity: .8;
+    transform: scale(1.03);
+    transition: transform 200ms linear;
+}
